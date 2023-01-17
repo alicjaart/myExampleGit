@@ -1,0 +1,17 @@
+Zadanie ad.2
+
+Szanowny Panie
+Mam taki pomysł na wzmocnienie działu testowania o narzędzie, które docelowo nie tylko przyśpieszy pracę zespołu, także określi jego rozwój.
+Wystarczy 1-2 pracowników dokształcić w Cypressie, aby powtarzalne działania testerskie zautomatyzować. Skorzystałby na tym cały zespół:
+- moglibyśmy szybciej dowieźć projekt jednocześnie zapobiegając regresji;
+- wykorzystując automatyzację testów do większych projektów, zyskujemy oszczędność w manualnym testowaniu w przyszłości (program może być wykorzystany ponownie);
+- generujemy mniejsze koszty, mimo, że nie każde testy da się zautomatyzować.
+Z powodzeniem zautomatyzujemy testy wydajnościowe, obciążeniowe (z dużą ilością danych), funkcjonalne i regresji (szybciej sprawdzimy zmiany).
+Wdrożenie takiego rozwiązania na początku wiąże się ze sporymi kosztami, ale docelowo się opłaca (mamy biblioteki, funkcje wielokrotnego użytku, pokryte koszty licencji).
+Zwykle byłam przeciwna wszelkim automatyzmom (z niepokoju o ich niedokładność), dziś gorąco polecam CYPRESS, jako narzędzie, które sprostało moim wymaganiom.
+Może więc i Pan doceni jego wartość oraz skuteczność w testowaniu:)
+
+Z wyrazami szacunku
+Alicja
+
+ 

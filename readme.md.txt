@@ -1,0 +1,1 @@
+list do szefa o automatyzacji testów
